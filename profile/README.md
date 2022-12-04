@@ -31,7 +31,7 @@ We also added a lottery system for selecting the recipient of the NFT. Liquidity
 ### Frontend
 
 https://github.com/2022DefenDAO/front
-![screenshot](./resources/website_screenshot.png)
+![screenshot](./website_screenshot.png)
 
 ### Contracts
 
