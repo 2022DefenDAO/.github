@@ -10,7 +10,7 @@ DeFenDAO aims to provide a tool for NFT communities to boost engagement and defe
 
 - [Website](https://hackathon-dcyn.vercel.app/)
 - [Video](https://www.youtube.com/watch?v=xiJmm0miDmc)
-- [Project slides deck](./resources/DeFendDAO.pdf)
+- [Project slides deck](./DeFendDAO.pdf)
 
 ## Problem
 
@@ -31,7 +31,7 @@ We also added a lottery system for selecting the recipient of the NFT. Liquidity
 ### Frontend
 
 https://github.com/2022DefenDAO/front
-![screenshot](./profile/website_screenshot.png)
+![screenshot](./website_screenshot.png)
 
 ### Contracts
 
